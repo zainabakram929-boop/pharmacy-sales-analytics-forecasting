@@ -6,6 +6,12 @@ An end-to-end internship project using **SQL, Python, machine learning, and Powe
 
 `Raw monthly sales → SQL staging → risk segmentation → Python forecasting → Power BI dashboards`
 
+## 📊 Power BI Dashboard — Customer Risk & Churn
+
+![Customer Risk and Churn Dashboard](assets/risk_churn_dashboard.png)
+
+This dashboard visualizes customer risk levels, churn status, and product variety segmentation to support customer-retention decisions.
+
 ## What the project does
 
 ### SQL analytics
